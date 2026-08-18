@@ -4,8 +4,10 @@ I build systems that sit underneath other software — audio pipelines, retrieva
 engines, proxies, memory layers. Mostly local-first, mostly the parts that are
 hard to get right rather than the parts that demo well.
 
-Currently interested in: on-device inference, personal memory for AI tools, and
-real-time signal processing.
+*Open to AI/ML and systems engineering internships.*
+
+**Currently exploring:** `on-device inference` · `adaptive filtering` · `RAG`
+· `personal memory for AI tools` · `real-time DSP`
 
 ---
 
@@ -56,5 +58,18 @@ resume/JD matcher with Overleaf-ready LaTeX output
 
 ### Tools
 
-`Python` `JavaScript` `React` `FastAPI` `Flutter` `SQLite` `Docker`
-`ChromaDB` `MediaPipe` `ONNX` `local LLMs`
+`Python` · `JavaScript` · `React` · `FastAPI` · `Flutter` · `SQLite` · `Docker`
+· `ChromaDB` · `MediaPipe` · `ONNX` · `local LLMs`
+
+---
+
+### Beyond code
+
+Audio and music — which is how autoduck started as a problem I actually had
+rather than a project idea.
+
+---
+
+### Get in touch
+
+[Email](mailto:krishalivaibhav@gmail.com) · [X](https://x.com/getaway_kr)
