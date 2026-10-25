@@ -23,6 +23,8 @@ The product isn't the alerts it raises, it's the ones it refuses to. Built for C
 
 **Memoir** *(private, in progress)* — memory layer that sits under any AI tool. Facts stay as Markdown you own.
 
+**Open source:** [AnyPS5](https://github.com/boykopovar/AnyPS5) (PS5 emulator): 12 merged PRs, plus ongoing work porting it to macOS.
+
 Also: [Gesture](https://github.com/krishalivaibhav/Gesture) (hand tracking) · [Resume-Analyzer](https://github.com/krishalivaibhav/Resume-Analyzer) (resume/JD matching)
 
 ---
