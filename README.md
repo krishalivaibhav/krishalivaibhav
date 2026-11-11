@@ -10,6 +10,9 @@ I find out why AI systems and graphics code are slow, wrong or expensive. I meas
 
 ### Case studies
 
+**[What 22 days of coding-agent calls would cost](case-studies/llm-cost-teardown.md)**: $566 at API prices, $6,301 without prompt caching.
+Run through [llm-cost-audit](https://github.com/krishalivaibhav/llm-cost-audit), my open-source cost audit CLI, which the real data caught undercounting by 12%.
+
 **[From 11 FPS to 60 on a fanless M2](case-studies/balatro-m2.md)**: a PS5 port was spending 64 ms a frame on work nobody could see.
 Three root causes, one wrong theory killed by measurement, and a fix that proves it is safe before it runs.
 
